@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.8.4)
+    purdytest (2.0.0)
+      minitest (~> 5.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  purdytest
+
+BUNDLED WITH
+   1.11.2
